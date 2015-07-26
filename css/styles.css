@@ -91,7 +91,8 @@ header ul li {
 }
 
 .Line {
-	width : 60%;
+
+	width : 700px;
 	height: 10px;
 	color: #000000;
 }
@@ -99,8 +100,8 @@ header ul li {
 article {
 	clear : left;
 	position: relative;
-	width: 70%;
-	background-color: #f1f1f1;
+	width: 800px;
+	background-color: #ffffff;
 	margin: auto;
 	padding-bottom: 20px;
 }
@@ -110,7 +111,7 @@ article {
 	margin-left: auto;
 	margin-right: auto;
 	height: 1px;
-	width: 60%;
+	width: 700px;
 	background-color: #000000;
 }
 
@@ -135,3 +136,19 @@ footer p  {
 	margin: 1em;
 }
 
+.MenuHref:link {
+	color: #000000;
+	 text-decoration: none;
+}
+
+
+.MenuHref:visited {
+	color: #000000;
+	text-decoration: none;
+
+}
+
+.MenuHref:hover {
+	text-decoration: none;
+	color: #999999;
+}
