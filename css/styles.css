@@ -59,7 +59,7 @@ h1 {
 	font-size: 2em;
 	font-weight: bold;
 	margin-bottom: 1em;
-	padding-top: 1em
+	margin-top: 1em
 }
 
 /*
@@ -73,6 +73,7 @@ Nav Bar
 
 header ul li {
 	display: inline;
+	color: #FF9900;
 }
 
 .MenuItem {
@@ -94,7 +95,6 @@ header ul li {
 
 	width : 700px;
 	height: 10px;
-	color: #000000;
 }
 
 article {
@@ -112,9 +112,10 @@ article {
 	margin-right: auto;
 	height: 1px;
 	width: 700px;
-	background-color: #000000;
+	background-color: #E68A00;
 	margin-top: 30px;
 	margin-bottom: 30px;
+	border-width: 0;
 }
 
 .ProfileImage {
@@ -140,19 +141,20 @@ article {
 footer p  {
 	text-align: center;
 	margin: 1em;
-}
+	color: #E68A00;
+}	
 
 a:link {
-	color: #000000;
+	color: #E68A00;
 	 text-decoration: none;
 }
 
 
 a:visited {
-	color: #000000;
+	color: #E68A00;
 	text-decoration: none;
 
-}
+}	
 
 a:hover {
 	text-decoration: none;
