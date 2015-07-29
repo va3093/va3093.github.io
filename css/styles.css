@@ -70,6 +70,15 @@ h2 {
 	margin-top: 1em
 }
 
+h3 {
+	position: relative;
+	font-size: 1em;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+	margin-top: 1em;
+	margin-left: 1em;
+}
+
 /*
 Nav Bar
 */
@@ -184,4 +193,14 @@ a:hover {
 
 .Content a: {
 
+}
+
+#contactsList {
+	list-style: disc;
+	margin-left: 1.5em;
+}
+
+.contactItem {
+	list-style-position:inside;
+	margin: 0.5em 0;
 }
