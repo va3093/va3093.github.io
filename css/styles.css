@@ -58,6 +58,14 @@ h1 {
 	position: relative;
 	font-size: 2em;
 	font-weight: bold;
+	margin-bottom: 0.5em;
+	margin-top: 1em
+}
+
+h2 {
+	position: relative;
+	font-size: 1.5em;
+	color: rgb(200,200,200);
 	margin-bottom: 1em;
 	margin-top: 1em
 }
