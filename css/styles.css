@@ -72,11 +72,21 @@ h2 {
 
 h3 {
 	position: relative;
-	font-size: 1em;
+	font-size: 1.5em;
 	font-weight: bold;
 	margin-bottom: 0.5em;
 	margin-top: 1em;
-	margin-left: 1em;
+	margin-left: 20px;
+}
+
+h4 {
+	position: relative;
+	font-size: 1em;
+	color: rgb(200,200,200);
+	margin-bottom: 1em;
+	margin-top: 1em;
+	margin-left: 20px;
+
 }
 
 /*
@@ -203,4 +213,9 @@ a:hover {
 .contactItem {
 	list-style-position:inside;
 	margin: 0.5em 0;
+}
+
+.projectDescription {
+	margin-left: 20px;
+	line-height: 1.5em;
 }
