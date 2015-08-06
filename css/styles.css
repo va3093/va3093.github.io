@@ -225,12 +225,12 @@ p {
 	line-height: 1.5em;
 }
 
-ol {
+.paragraphOL {
 	margin: 1em;
 	line-height: 1em;
 }
 
-li {
+.paragraphListItem {
 	line-height: 1.5em;
 	list-style: decimal;
 	margin-left: 2em;
