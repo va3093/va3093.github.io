@@ -217,5 +217,44 @@ a:hover {
 
 .projectDescription {
 	margin-left: 20px;
+	line-height: 1.5em;		
+}
+
+p {
+	margin: 1em;
 	line-height: 1.5em;
 }
+
+ol {
+	margin: 1em;
+	line-height: 1em;
+}
+
+li {
+	line-height: 1.5em;
+	list-style: decimal;
+	margin-left: 2em;
+}
+
+.paragraphImage {
+	display: block;
+	width: 60%;
+	margin: 0 auto;
+}
+
+code {
+	line-height: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
